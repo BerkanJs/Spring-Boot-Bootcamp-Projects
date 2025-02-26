@@ -8,4 +8,4 @@
 
 4-5 ) Build DTO on our spring project ,@Query , Spring Validations
 
-6) Spring Relations
+6)  Spring Relations
